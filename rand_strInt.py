@@ -8,3 +8,4 @@ def rand_string(length):
     return rand_str
 print(rand_string)
 print(random.random(),end="")
+input("\n Press enter to close")
